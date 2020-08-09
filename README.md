@@ -27,7 +27,7 @@ The dataset was acquired from the [Cell Tracking Challenge website](http://cellt
 
 ## Usage
 
-Run the `main.py` file or use the `train.ipynb` file with Jupyter Notebook (Recommended).
+Run the `main.py` file or use the `train.ipynb` file with Jupyter Notebook (Recommended). The predicted images are within `./data/results/`
 
 ## Credits
 
