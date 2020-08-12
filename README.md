@@ -13,10 +13,8 @@ Using the [U-Net Convolutional Network](http://lmb.informatik.uni-freiburg.de/pe
 Tested with Python 3.7:
 
 ```bash
-pip3 install keras tensorflow-gpu numpy scikit-image
+pip3 install keras tensorflow numpy scikit-image
 ```
-
-**Note:** replace `tensorflow-gpu` with `tensorflow` if training on the CPU.
 
 ### Dataset
 
